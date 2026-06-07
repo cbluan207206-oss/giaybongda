@@ -15,7 +15,7 @@ const products = [
         sizes: [39, 40, 41, 42, 43, 44, 45],
         image: "IMG_4113.jpeg",
         desc: "Màu sắc xanh dương nhật bản năng động cực cuốn hút. Phù hợp anh em kiểm soát bóng, bứt tốc chạy cánh thần sầu trên các mặt sân cỏ nhân tạo."
-    }
+    },
     {
         id: 3,
         name: "Giày Bóng Đá Zocker Winner Energy Gen 2 - Xanh Nhật TF",
@@ -23,7 +23,7 @@ const products = [
         sizes: [39, 40, 41, 42, 43, 44, 45],
         image: "IMG_4113.jpeg",
         desc: "Màu sắc xanh dương nhật bản năng động cực cuốn hút. Phù hợp anh em kiểm soát bóng, bứt tốc chạy cánh thần sầu trên các mặt sân cỏ nhân tạo."
-    }
+    },
     {
         id: 4,
         name: "Giày Bóng Đá Zocker Winner Energy Gen 2 - Xanh Nhật TF",
@@ -31,7 +31,7 @@ const products = [
         sizes: [39, 40, 41, 42, 43, 44, 45],
         image: "IMG_4113.jpeg",
         desc: "Màu sắc xanh dương nhật bản năng động cực cuốn hút. Phù hợp anh em kiểm soát bóng, bứt tốc chạy cánh thần sầu trên các mặt sân cỏ nhân tạo."
-    }
+    },
     {
         id: 5,
         name: "Giày Bóng Đá Zocker Winner Energy Gen 2 - Đỏ Thẫm TF",
@@ -47,7 +47,7 @@ const products = [
         sizes: [39, 40, 41, 42, 43, 44, 45],
         image: "IMG_4113.jpeg",
         desc: "Màu sắc xanh dương nhật bản năng động cực cuốn hút. Phù hợp anh em kiểm soát bóng, bứt tốc chạy cánh thần sầu trên các mặt sân cỏ nhân tạo."
-    }
+    },
     {
         id: 7,
         name: "Giày Bóng Đá Zocker Winner Energy Gen 2 - Xanh Nhật TF",
@@ -55,7 +55,7 @@ const products = [
         sizes: [39, 40, 41, 42, 43, 44, 45],
         image: "IMG_4113.jpeg",
         desc: "Màu sắc xanh dương nhật bản năng động cực cuốn hút. Phù hợp anh em kiểm soát bóng, bứt tốc chạy cánh thần sầu trên các mặt sân cỏ nhân tạo."
-    }
+    },
     {
         id: 8,
         name: "Giày Bóng Đá Zocker Winner Energy Gen 2 - Xanh Nhật TF",
@@ -63,7 +63,7 @@ const products = [
         sizes: [39, 40, 41, 42, 43, 44, 45],
         image: "IMG_4113.jpeg",
         desc: "Màu sắc xanh dương nhật bản năng động cực cuốn hút. Phù hợp anh em kiểm soát bóng, bứt tốc chạy cánh thần sầu trên các mặt sân cỏ nhân tạo."
-    }
+    },
 ];
 
 let cart = safeGetStorage('cbl_cart');
