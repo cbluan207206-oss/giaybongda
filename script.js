@@ -32,8 +32,6 @@ const products = [
         image: "IMG_4113.jpeg",
         desc: "Màu sắc xanh dương nhật bản năng động cực cuốn hút. Phù hợp anh em kiểm soát bóng, bứt tốc chạy cánh thần sầu trên các mặt sân cỏ nhân tạo."
     },
-];
-const products = [
     {
         id: 5,
         name: "Giày Bóng Đá Zocker Winner Energy Gen 2 - Đỏ Thẫm TF",
