@@ -17,7 +17,7 @@ const products = [
         desc: "Màu sắc xanh dương nhật bản năng động cực cuốn hút. Phù hợp anh em kiểm soát bóng, bứt tốc chạy cánh thần sầu trên các mặt sân cỏ nhân tạo."
     }
     {
-        id: 2,
+        id: 3,
         name: "Giày Bóng Đá Zocker Winner Energy Gen 2 - Xanh Nhật TF",
         price: "699.000",
         sizes: [39, 40, 41, 42, 43, 44, 45],
@@ -25,17 +25,15 @@ const products = [
         desc: "Màu sắc xanh dương nhật bản năng động cực cuốn hút. Phù hợp anh em kiểm soát bóng, bứt tốc chạy cánh thần sầu trên các mặt sân cỏ nhân tạo."
     }
     {
-        id: 2,
+        id: 4,
         name: "Giày Bóng Đá Zocker Winner Energy Gen 2 - Xanh Nhật TF",
         price: "699.000",
         sizes: [39, 40, 41, 42, 43, 44, 45],
         image: "IMG_4113.jpeg",
         desc: "Màu sắc xanh dương nhật bản năng động cực cuốn hút. Phù hợp anh em kiểm soát bóng, bứt tốc chạy cánh thần sầu trên các mặt sân cỏ nhân tạo."
     }
-];
-// HÀNG 2 
-const products = [ {
-        id: 1,
+    {
+        id: 5,
         name: "Giày Bóng Đá Zocker Winner Energy Gen 2 - Đỏ Thẫm TF",
         price: "699.000",
         sizes: [38, 39, 40, 41, 42, 43, 45],
@@ -43,7 +41,7 @@ const products = [ {
         desc: "Dòng sản phẩm cao cấp chính hãng Zocker Gen 2. Da upper mềm mại, ôm chân, hệ thống đinh dăm TF bám sân phân bổ khoa học giúp xoay sở tăng tốc linh hoạt tối đa."
     },
     {
-        id: 2,
+        id: 6,
         name: "Giày Bóng Đá Zocker Winner Energy Gen 2 - Xanh Nhật TF",
         price: "699.000",
         sizes: [39, 40, 41, 42, 43, 44, 45],
@@ -51,7 +49,7 @@ const products = [ {
         desc: "Màu sắc xanh dương nhật bản năng động cực cuốn hút. Phù hợp anh em kiểm soát bóng, bứt tốc chạy cánh thần sầu trên các mặt sân cỏ nhân tạo."
     }
     {
-        id: 2,
+        id: 7,
         name: "Giày Bóng Đá Zocker Winner Energy Gen 2 - Xanh Nhật TF",
         price: "699.000",
         sizes: [39, 40, 41, 42, 43, 44, 45],
@@ -59,7 +57,7 @@ const products = [ {
         desc: "Màu sắc xanh dương nhật bản năng động cực cuốn hút. Phù hợp anh em kiểm soát bóng, bứt tốc chạy cánh thần sầu trên các mặt sân cỏ nhân tạo."
     }
     {
-        id: 2,
+        id: 8,
         name: "Giày Bóng Đá Zocker Winner Energy Gen 2 - Xanh Nhật TF",
         price: "699.000",
         sizes: [39, 40, 41, 42, 43, 44, 45],
